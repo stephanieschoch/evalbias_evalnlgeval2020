@@ -1,4 +1,4 @@
 # framing-bias-nlg-eval
-This repository contains the supplementary spreadsheet and data collection information for the empirical analysis in "This is a Problem, Don't You Agree?" Framing and Bias in Human Evaluation for Natural Language Generation.
+This repository contains the supplementary data csv file and data collection information for the empirical analysis in "This is a Problem, Don't You Agree?" Framing and Bias in Human Evaluation for Natural Language Generation.
 
 (Under Construction)
